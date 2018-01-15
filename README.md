@@ -17,4 +17,8 @@ This will be exceptionally diffucult because of a few reasons
 think of imagine by John Lennon
 3. more things that I can't think of at the moment
 
+# 1 rep max calculator for weightlifting
+this will just take a given lift, and given number of reps, and calculate a projected 1 rep max
+Bonus points for showing the other percentages
+
 #  more project ideas here in the future
