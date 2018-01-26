@@ -21,4 +21,7 @@ think of imagine by John Lennon
 this will just take a given lift, and given number of reps, and calculate a projected 1 rep max
 Bonus points for showing the other percentages
 
+# internet worms
+self explanitory 
+
 #  more project ideas here in the future
