@@ -26,7 +26,7 @@ self explanitory
 
 
 # Android and IOS development
-JUst going to start some beginner stuff out. I have been working on Derek Banes tutorial videos for now. 
+Just going to start some beginner stuff out. I have been working on Derek Banes tutorial videos for now. 
 
 
 #  more project ideas here in the future
