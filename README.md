@@ -22,6 +22,11 @@ this will just take a given lift, and given number of reps, and calculate a proj
 Bonus points for showing the other percentages
 
 # internet worms
-self explanitory 
+self explanitory
+
+
+# Android and IOS development
+JUst going to start some beginner stuff out. I have been working on Derek Banes tutorial videos for now. 
+
 
 #  more project ideas here in the future
