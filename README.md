@@ -20,6 +20,8 @@ think of imagine by John Lennon
 # 1 rep max calculator for weightlifting
 this will just take a given lift, and given number of reps, and calculate a projected 1 rep max
 Bonus points for showing the other percentages
+finished this one https://github.com/anoobishnoob/oneRepMaxCalculator-C-Sharp
+now if I can show the other percentages that will be pretty cool as well.
 
 # internet worms
 self explanitory
