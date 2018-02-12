@@ -24,12 +24,16 @@ Bonus points for showing the other percentages
 finished this one at this link https://github.com/anoobishnoob/oneRepMaxCalculator-C-Sharp
 now if I can show the other percentages that will be pretty cool as well.
 
-# internet worms
+# internet scrapers
 self explanitory
 
 
 # Android and IOS development
 Just going to start some beginner stuff out. I have been working on Derek Banes tutorial videos for now. 
+
+
+# Caeser cipher, and other ciphers
+self explanatory
 
 
 #  more project ideas here in the future
