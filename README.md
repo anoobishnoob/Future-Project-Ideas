@@ -35,5 +35,10 @@ Just going to start some beginner stuff out. I have been working on Derek Banes 
 # Caeser cipher, and other ciphers
 self explanatory
 
+# Android apps 
+just various Android apps for both fun and learning.
+
+
+
 
 #  more project ideas here in the future
