@@ -27,6 +27,9 @@ now if I can show the other percentages that will be pretty cool as well.
 # internet scrapers
 self explanitory
 
+# get a understanding of the functional language Haskell
+self explanatory 
+
 
 # Android and IOS development
 Just going to start some beginner stuff out. I have been working on Derek Banes tutorial videos for now. 
