@@ -5,7 +5,10 @@ This is a repository for ideas of little web apps that I want to make and requir
 this idea will be for all 7 gens of pokemon, and it will basically take an input of stats and with that I will
 apply the equations the various games use 
 
-# Javascript Games
+Android App incoming 
+
+
+# Javascript Games, Java Games
 self explanatory, but simple mobile games like flappy bird, agar.io, etc.
 eventually create my own games with some practice
 
@@ -17,6 +20,9 @@ This will be exceptionally diffucult because of a few reasons
 think of imagine by John Lennon
 3. Just so many chords that I will have to list unless I find a better method 
 
+
+Definitely want to create an android app for this 
+
 # 1 rep max calculator for weightlifting
 this will just take a given lift, and given number of reps, and calculate a projected 1 rep max
 Bonus points for showing the other percentages
@@ -24,8 +30,12 @@ Bonus points for showing the other percentages
 finished this one at this link https://github.com/anoobishnoob/oneRepMaxCalculator-C-Sharp
 now if I can show the other percentages that will be pretty cool as well.
 
+I want to create an android app for this now 
+
+
 # internet scrapers
 self explanitory
+// need to upload a few I have created in Python and C#. They need better frontends though
 
 # get a understanding of the functional language Haskell
 self explanatory 
