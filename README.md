@@ -40,7 +40,7 @@ self explanitory
 # get a understanding of the functional language Haskell
 self explanatory 
 
-#get an understanding of the C programming language. 
+# get an understanding of the C programming language. 
 Self explanatory 
 
 
