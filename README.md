@@ -40,6 +40,9 @@ self explanitory
 # get a understanding of the functional language Haskell
 self explanatory 
 
+#get an understanding of the C programming language. 
+Self explanatory 
+
 
 # Android and IOS development
 Just going to start some beginner stuff out. I have been working on Derek Banes tutorial videos for now. 
@@ -56,6 +59,9 @@ Make an android app for this, and maybe store personal results in a database, an
 link to what I want to use https://www.outcometracker.org/library/HAM-D.pdf
 this should not be that hard
 too depressed to make this right now
+
+
+
 
 
 #  more project ideas here in the future
