@@ -57,8 +57,9 @@ just various Android apps for both fun and learning.
 # Hamilton Rating Scale for Depression (17-items)
 Make an android app for this, and maybe store personal results in a database, and also maybe be exportable and such
 link to what I want to use https://www.outcometracker.org/library/HAM-D.pdf
-this should not be that hard
-too depressed to make this right now
+
+# app that creates a half life of various drugs, and show you how long till you will most likely be sober
+thought of this as a funny idea
 
 
 
