@@ -63,3 +63,4 @@ thought of this as a funny idea
 
 
 #  more project ideas here in the future
+kimochi warui
