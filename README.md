@@ -60,7 +60,8 @@ App that generates Chord progressions to try to write music to. Bonus points to 
 # app that creates a half life of various drugs, and show you how long till you will most likely be sober
 thought of this as a funny idea
 
-
+# app that spits out possible chord progressions
+Basically you want some chords and it will spit something like a I vi IV V or something
 
 
 
