@@ -42,7 +42,7 @@ self explanatory
 
 # get an understanding of the C programming language. 
 Self explanatory 
-
+/// done a while ago, I just need projects to show now
 
 # Android and IOS development
 Just going to start some beginner stuff out. I have been working on Derek Banes tutorial videos for now. 
