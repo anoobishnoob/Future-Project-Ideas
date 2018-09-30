@@ -61,6 +61,8 @@ thought of this as a funny idea
 # app that spits out possible chord progressions (android, C#, or react)
 Basically you want some chords and it will spit something like a I vi IV V or something
 
+# Learn React
+
 
 
 #  more project ideas here in the future
