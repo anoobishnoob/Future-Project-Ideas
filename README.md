@@ -64,6 +64,11 @@ Basically you want some chords and it will spit something like a I vi IV V or so
 # Learn React
 
 
+# CI/CD 
+
+I am going to learn how to use a CI/CD environment. I am going to start watching some tutorials on this to get my head around this, so I can do this. I like the idea of this because this is a big part of understanding architetcure long term. 
+
+
 
 #  more project ideas here in the future
 
