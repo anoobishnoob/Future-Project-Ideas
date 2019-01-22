@@ -68,7 +68,8 @@ Basically you want some chords and it will spit something like a I vi IV V or so
 
 I am going to learn how to use a CI/CD environment. I am going to start watching some tutorials on this to get my head around this, so I can do this. I like the idea of this because this is a big part of understanding architetcure long term. 
 
-
+# Unity for game development
+nuff said
 
 #  more project ideas here in the future
 
